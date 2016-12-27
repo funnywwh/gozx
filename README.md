@@ -1,2 +1,2 @@
 # zx
-zip a execuable file to a mathor execuable and then run
+zip a execuable file to a mother execuable and then run
